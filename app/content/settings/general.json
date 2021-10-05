@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "titleTemplate": "| Prime Elevators",
+  "welcomeText": "# Official blog of Prime Elevators \n\nThis is the official blog of Prime Elevators.",
+  "logo": "/images/uploads/mbr-121x121.png",
+  "icon": "/images/uploads/mbr-121x121.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Welcome to the official blog of Prime Elevators.",
   "seoMetaImage": ""
 }
