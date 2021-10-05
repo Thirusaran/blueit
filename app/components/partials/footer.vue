@@ -1,7 +1,7 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      
+      <a href="https://primeelevatorssg.com">PRIMEELEVATORSSG.COM</a>
     </div>
   </footer>
 </template>
@@ -18,3 +18,4 @@ export default class Footer extends Vue {}
   background-color: $bluise;
 }
 </style>
+
