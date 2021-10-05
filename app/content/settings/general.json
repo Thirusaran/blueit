@@ -3,8 +3,8 @@
   "titleTemplate": "| Bluise",
   "welcomeText": "# Official blog of Prime Elevators \n\nThis is the official blog of Prime Elevators.",
   "logo": "/images/uploads/mbr-121x121.png",
-  "icon": "/images/uploads/logo.png",
+  "icon": "/images/uploads/mbr-121x121.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Welcome to the official blog of Prime Elevators.",
   "seoMetaImage": ""
 }
