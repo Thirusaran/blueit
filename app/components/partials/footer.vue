@@ -1,7 +1,7 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      <a href="https://primeelevatorssg.com">PRIMEELEVATORSSG.COM</a>
+      <a href="https://primeelevatorssg.com" style="color: white">PRIMEELEVATORSSG.COM</a>
     </div>
   </footer>
 </template>
